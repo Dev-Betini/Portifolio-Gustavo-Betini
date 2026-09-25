@@ -25,6 +25,9 @@ Novos projetos serão adicionados aqui conforme forem desenvolvidos.
 - HTML
 - CSS
 - JavaScript
+- Python
+- Api's
+- Flask
 - Git
 - GitHub
 
