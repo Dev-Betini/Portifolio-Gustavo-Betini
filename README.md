@@ -51,8 +51,8 @@ A ideia é registrar não apenas os projetos finalizados, mas também meu proces
 
 ## 📫 Contato
 
-Em breve adicionarei aqui meus principais canais de contato.
-
+@dev_betini
+gustavobetini@outlook.com
 ---
 
 ⭐ Este repositório está em constante evolução.
